@@ -33,4 +33,5 @@ The underlying star-schema model uses five flat files cleanly extracted from the
 * **Volume Analysis**: Isolates seasonal demand variations, pinpointing underperforming regional markets and identifying top consumer accounts.
 
   
+<img width="2852" height="1446" alt="Dashboard Revenue" src="https://github.com/user-attachments/assets/e07dc31e-7052-44bb-9cde-8b6ca539a62d" />
 
